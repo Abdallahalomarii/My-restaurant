@@ -1,5 +1,11 @@
 # Quick-chicken
+
 ### Our restaurant will offer fried Chicken in all size  and we offers a specail burger sandwich for try Hope you enjoy dont forget to visit us in Irbid.
+
+
+ ![quick chicken wireframe](wireframe_lab02.jpg)
+
+
 ## restaurant-menu
 - ### Family Meals
     - family meals 12 pieces of fried chicken+coca cola and sause.
